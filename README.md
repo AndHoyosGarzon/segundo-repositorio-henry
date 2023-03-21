@@ -1,2 +1,2 @@
 # segundo-repositorio-henry
-este es otro repositorio de prueba del modulo 2 del prepcourse
+este es una prueba de como crear un repositorio y como clonarlo desde github a nuestro escritorio local 
